@@ -1,6 +1,6 @@
 import { createStackNavigator, createAppContainer } from 'react-navigation'
 
-import Home from './src/pages/Home/Index'
+import Home from './src/pages/home/Index'
 
 const App = createStackNavigator(
   {
